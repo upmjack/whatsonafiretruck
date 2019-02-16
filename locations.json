@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Nearside Front Locker"
+    },
+    {
+        "id": 2,
+        "name": "Nearside Middle Locker"
+    },
+    {
+        "id": 3,
+        "name": "Nearside Rear Locker"
+    },
+    {
+        "id": 4,
+        "name": "Pump Bay"
+    },
+    {
+        "id": 5,
+        "name": "Roof"
+    },
+    {
+        "id": 6,
+        "name": "Offside Front Locker"
+    },
+    {
+        "id": 7,
+        "name": "Offside Middle Locker"
+    },
+    {
+        "id": 8,
+        "name": "Offside Rear Locker"
+    },
+    {
+        "id": 9,
+        "name": "Cab"
+    }
+]
